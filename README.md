@@ -1,8 +1,16 @@
-### Hi there 👋
+<h1 align = "center"> Hello confusion
 
-FrolickingAsteroid
+💡 I'm 13A! ( A as in ɐ)  💡 </h1>
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<h4 align = "center"> Currently an undergrad student at Instituto superior técnico, studying electrotechnical engineering! </h4>
+  
 
 
-<img src="https://raw.githubusercontent.com/FrolickingAsteroid/FrolickingAsteroid/main/MIC.gif" width="30px">
+
+
+<h1 align = "center"> <img src="https://github.com/FrolickingAsteroid/FrolickingAsteroid/blob/main/MIC.gif" width="500px"> 
+
+ For now Till I figure more things out!!!! </h1>
+
+
+
