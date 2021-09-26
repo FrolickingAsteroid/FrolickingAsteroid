@@ -1,16 +1,13 @@
-<h1 align = "center"> Hello confusion
+<h1 align = "center"> <img src="https://github.com/FrolickingAsteroid/FrolickingAsteroid/blob/main/13A!.png" width="900px"> </h1>
 
-💡 I'm 13A! ( A as in ɐ)  💡 </h1>
+💡Hi there, I'm 13A! ( A as in ɐ)  💡 
 
-<h4 align = "center"> Currently an undergrad student at Instituto superior técnico, studying electrotechnical engineering! </h4>
+ Currently an undergrad student at Instituto superior técnico, studying electrotechnical engineering! 
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrolickingAsteroid)](https://github.com/FrolickingAsteroid/github-readme-stats)
 
 
 
-
-<h1 align = "center"> <img src="https://github.com/FrolickingAsteroid/FrolickingAsteroid/blob/main/MIC.gif" width="500px"> 
-
- For now Till I figure more things out!!!! </h1>
 
 
 
