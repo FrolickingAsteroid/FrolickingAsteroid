@@ -4,7 +4,8 @@
 
  Currently an undergrad student at Instituto superior técnico, studying electrotechnical engineering! 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrolickingAsteroid)](https://github.com/FrolickingAsteroid/github-readme-stats)
+  
+
 
 
 
